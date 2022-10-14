@@ -1,3 +1,4 @@
+
 var swiper1 = new Swiper1(".mySwiper1", { 
     spaceBetween: 0,
     centeredSlides: false,
@@ -15,4 +16,5 @@ var swiper1 = new Swiper1(".mySwiper1", {
       },
        
     
+
   }); 
